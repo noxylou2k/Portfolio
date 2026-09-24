@@ -60,7 +60,7 @@ const PROJECTS = [
     title: 'Isaiah Rashad at Tiny Desk',
     category: 'Music Clip',
     tiktok: 'https://www.tiktok.com/@peakmode82/video/7688545433848728840',
-    thumbnail: '/thumbs/tiktok-7688545433848728840.jpg',
+    thumbnail: `${import.meta.env.BASE_URL}thumbs/tiktok-7688545433848728840.jpg`,
     tone: 'warm',
   },
 ]
